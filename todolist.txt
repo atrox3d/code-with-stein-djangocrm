@@ -7,7 +7,7 @@
         python manage.py startapp core
         - create base template
         - create front page
-    - create about page
+        - create about page
 - authentication
 - dashboard
 - create new leads
