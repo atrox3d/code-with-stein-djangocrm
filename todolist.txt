@@ -1,0 +1,12 @@
+- create virtulenv
+- install django
+- base pages/templates
+- authentication
+- dashboard
+- create new leads
+- crud leads
+- convert leads to clients
+- crud clients
+- implement solution for teams
+- implement a payment solution/montly payments
+- deploy
