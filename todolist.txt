@@ -1,5 +1,7 @@
-- create virtulenv
+- create virtualenv
 - install django
+- create project
+    django-admin startproject tealcrm
 - base pages/templates
 - authentication
 - dashboard
