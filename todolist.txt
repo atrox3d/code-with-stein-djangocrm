@@ -1,8 +1,13 @@
-- create virtualenv
-- install django
-- create project
-    django-admin startproject tealcrm
+    - create virtualenv
+    - install django
+    - create project
+        django-admin startproject tealcrm
 - base pages/templates
+    - create app for pages
+        python manage.py startapp core
+    - create base template
+    - create front page
+    - create about page
 - authentication
 - dashboard
 - create new leads
